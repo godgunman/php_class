@@ -1,0 +1,5 @@
+web1:
+  name: uploadapp
+  shared_writable_dirs: [upload_files]  
+db1:
+  name: uploaddb
